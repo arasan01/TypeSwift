@@ -1,3 +1,3 @@
 # TypeSwift
 
-A description of this package.
+TypeScript <-> Swift Syntax Mapping

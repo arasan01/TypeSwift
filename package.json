@@ -1,8 +1,7 @@
 {
   "name": "typeswift",
   "version": "1.0.0",
-  "description": "A description of this package.",
-  "main": "index.js",
+  "description": "TypeScript <-> Swift Syntax Mapping",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,10 +9,16 @@
     "type": "git",
     "url": "git+https://github.com/arasan01/TypeSwift.git"
   },
-  "author": "",
+  "author": "arasan01",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/arasan01/TypeSwift/issues"
   },
-  "homepage": "https://github.com/arasan01/TypeSwift#readme"
+  "homepage": "https://github.com/arasan01/TypeSwift#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.10"
+  },
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
 }
