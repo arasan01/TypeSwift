@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/arasan01/TypeSwift#readme",
   "devDependencies": {
-    "@types/node": "^18.15.10"
+    "@types/node": "^18.15.10",
+    "ts-node": "^10.9.1"
   },
   "dependencies": {
     "typescript": "^5.0.2"
